@@ -1,0 +1,10 @@
+/* here you can put your own css to customize and override the theme */
+  .col-md-2 {
+    width: 10.5%;
+    padding-right:0px;
+  }
+  
+  .col-md-10 {
+    width: 89.5%;
+    padding-left:0px;
+  }
